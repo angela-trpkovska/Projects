@@ -1,0 +1,58 @@
+﻿@model AmsmProject.Models.AmsmInfo
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+
+<h3>Дали сте сигурни дека сакате да го избришете датумот?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <p>Датум</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date)
+        </dd>
+
+        <dt>
+            <p>Час</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hour)
+        </dd>
+
+        <dt>
+            <p>Кандидати теорија</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.candidatesTP)
+        </dd>
+
+        <dt>
+            <p>Кандидати практично1</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.candidatesPP1)
+        </dd>
+
+ 
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" style="background-color: yellow; font-family: arial; color: black;font-weight: bold; " value="Избриши" class="btn btn-default" /> |
+            @Html.ActionLink("Назад", "Index")
+        </div>
+    }
+</div>

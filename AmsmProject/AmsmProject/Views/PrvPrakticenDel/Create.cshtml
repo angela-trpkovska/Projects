@@ -1,0 +1,61 @@
+﻿@model AmsmProject.Models.PracticalPart1
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <br />
+        <h4>Прв практичен дел- Полигон</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            <p><b>Матичен број</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EMBG)
+                @Html.ValidationMessageFor(model => model.EMBG)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <p><b>Датум</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.date)
+                @Html.ValidationMessageFor(model => model.date)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <p><b>Положено</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.passed)
+                @Html.ValidationMessageFor(model => model.passed)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <p><b>Платено</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.payed)
+                @Html.ValidationMessageFor(model => model.payed)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class=" col-md-10">
+                <input type="submit" style="background-color: yellow; font-family: arial; color: black;font-weight: bold; " value="Креирај" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Назад", "Index")
+</div>

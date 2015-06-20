@@ -1,0 +1,76 @@
+﻿@model AmsmProject.Models.PracticalPart2
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h3>Внеси кандидат</h3>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Втор практичен дел-Градска</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            <p><b>Матичен број</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EMBG)
+                @Html.ValidationMessageFor(model => model.EMBG)
+            </div>
+        </div>
+
+        <div class="form-group">
+           <p><b>Датум</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.date)
+                @Html.ValidationMessageFor(model => model.date)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <p><b>Место</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.place)
+                @Html.ValidationMessageFor(model => model.place)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <p><b>Час</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.hour)
+                @Html.ValidationMessageFor(model => model.hour)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <p><b>Положено</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.passed)
+                @Html.ValidationMessageFor(model => model.passed)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <p><b>Платено</b></p>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.payed)
+                @Html.ValidationMessageFor(model => model.payed)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="submit" style="background-color: yellow; font-family: arial; color: black;font-weight: bold; " value="Креирај" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Назад", "Index")
+</div>

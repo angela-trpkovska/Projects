@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "AdminPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Страна за администраторот</h3>
+<div>
+    @Html.ActionLink("Пријавени кандидати за теоретски дел", "Index", "TeoretskiDel")
+</div>
+<br />
+
+<div>
+    @Html.ActionLink("Пријавени кандидати за прв практичен дел", "Index", "PrvPrakticenDel")
+
+</div>
+<br />
+<div>
+    @Html.ActionLink("Пријавени кандидати за втор практичен дел", "Index", "VtorPrakticenDel")
+
+</div>
+<br />
+
+<div>
+    @Html.ActionLink("Кандидати", "List", "SignUp")
+
+</div>
+<br />
+
+
+
+
+
+<div>
+    @Html.ActionLink("Датуми за теоретски и прв практичен дел", "Index", "Dates")
+
+</div>
+<br />
+<div>
+    @Html.ActionLink("Датуми за втор практичен дел", "Index", "Dates2")
+
+</div>
+<br />
+
+
+

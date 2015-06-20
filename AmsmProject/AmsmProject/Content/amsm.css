@@ -1,0 +1,142 @@
+﻿
+
+.navbar-inverse {
+  background-color: #FFFF00; 
+ border-color: #080808;
+ 
+}
+
+
+.navbar-brand 
+{
+	color:black;
+}
+.navbar-default {
+
+  background-color:#303030 ;
+  border-color: #e7e7e7;
+}
+
+
+body {
+  margin: 0;
+  background-color: grey;
+  color:black;
+}
+
+
+
+.list-group {
+  padding-left: 0;
+  margin-bottom: 20px;
+   height: 100%;
+}
+
+img
+{
+border: 0;
+margin-top: -17px;
+margin-left: 52px;
+margin-top: -13px;
+margin-bottom: -9px;
+}
+
+
+.panel {
+        background-color: grey;
+
+}
+
+
+.panel-default {
+
+color: white;
+border-radius:5px;
+}
+
+
+#zanovosti ,#postapka,#rezultati,#dokumenti,#testovi
+{
+	visibility: hidden;
+	
+}
+
+.row {
+    margin: 30px;
+}
+
+.form-group {
+    margin: 55px;
+}
+
+a {
+  color:wheat;
+  text-decoration: none;
+}
+
+
+.panel-body {
+    color:black;
+    
+}
+
+
+.panel-info {
+  
+}
+
+    .panel-info > .panel-heading {
+        color: #3a87ad;
+        border-color: #CC6600;
+        background-color:#CC6600;
+    }
+
+    .panel-warning > .panel-heading {
+color: #c09853;
+background-color: #66CC33;
+border-color: #66CC33;
+}
+
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1050px;
+    }
+    
+}
+
+
+
+@media(min-width: 992px) 
+                {
+                    .col-md-6 {
+                        width: 107%;
+                    }
+                }
+
+.panel-default {
+ 
+border-color: grey;
+}
+
+
+.navbar-inverse .navbar-nav > li > a {
+  color: red;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: blue;
+  
+}
+
+
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: blue;
+  
+}
+
+

@@ -1,0 +1,72 @@
+﻿@model PagedList.IPagedList<AmsmProject.Models.AmsmInfoPP2>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Датуми за полагање втор практичен дел - АМСМ Скопје</h2>
+
+<p>
+    @Html.ActionLink("Внеси датум", "Create")
+</p>
+<p>
+    @Html.ActionLink("Назад", "AdminPage", "AmsmHome")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Пребарај по датум: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+    <br />
+    <br />
+    <br />
+}
+<table class="table">
+    <tr>
+        <th>
+            <p>Датум</p>
+        </th>
+        <th>
+            <p>Час</p>
+        </th>
+        <th>
+            <p>Место</p>
+        </th>
+        <th>
+            <p>Кандидати </p>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hour)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.place)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.candidatesPP2)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>
+<br />
+Страна @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) од @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))

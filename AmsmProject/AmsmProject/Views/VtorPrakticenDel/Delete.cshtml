@@ -1,0 +1,72 @@
+﻿@model AmsmProject.Models.PracticalPart2
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+<h3>Дали сте сигурни дека сакате да го избршете кандидатот?</h3>
+<div>
+    <h5>Втор практичен дел-Градска</h5>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <p><b>Матичен број</b></p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EMBG)
+        </dd>
+
+        <dt>
+            <p><b>Датум</b></p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date)
+        </dd>
+
+        <dt>
+            <p><b>Место</b></p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.place)
+        </dd>
+
+        <dt>
+            <p><b>Час</b></p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hour)
+        </dd>
+
+        <dt>
+            <p><b>Положено</b></p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.passed)
+        </dd>
+
+        <dt>
+            <p><b>Платено</b></p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.payed)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" style="background-color: yellow; font-family: arial; color: black;font-weight: bold; " value="Избриши" class="btn btn-default" /> |
+            @Html.ActionLink("Назад", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,72 @@
+﻿@model AmsmProject.Models.Candidate
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Избриши кандидат</h2>
+
+<h3>Дали сте сигурно дека сакате да избришете?</h3>
+<div>
+  
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <p>Име</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.firstName)
+        </dd>
+
+        <dt>
+            <p>Татково име</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.parentName)
+        </dd>
+
+        <dt>
+            <p>Презиме</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lastName)
+        </dd>
+
+        <dt>
+            <p>Категорија</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.category)
+        </dd>
+
+        <dt>
+            <p>Автошкола</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.drivingSchool)
+        </dd>
+
+        <dt>
+            <p>Инструктор</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.instructor)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" style="background-color: yellow; font-family: arial; color: black;font-weight: bold; " value="Избриши" class="btn btn-default" /> |
+            @Html.ActionLink("Назад", "List")
+        </div>
+    }
+</div>

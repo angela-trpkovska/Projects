@@ -1,0 +1,79 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>HomePage</title>
+</head>
+<body>
+    <p style="color:gray">afasfd</p>
+
+    <h2><center>АМСМ Електронско пријавување</center></h2>
+
+    <div>
+
+        <div class="fb-like" data-href="https://www.facebook.com/AMSM.Clenstvo" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div>
+        <div class="panel-body">
+            <div class="panel panel-info">
+                <div class="panel-heading"><strong>@Html.ActionLink("Закажи за теоретски дел", "ZakaziTermin", "TeoretskiDel")</strong></div>
+                <div class="panel-body">
+                    <p style="color:black ">
+                        Теоретската обука во Автошколите ја изведува висококвалификуван предавач по теоретска настава, кој во своето долгогодишно работно искуство обучил повеќе од 3.000 кандидати.
+                        За потребите на теоретската обука,располагаме со модерно опремена и целосно комјутеризирана училница, во која со помош на различни помошни средства кандидатите полесно го совладуваат материјалот и соодветно се подготвуваат за полагање на испитот за познавање на теоретските сообраќајни правила и прописи.
+                    </p>
+                </div>
+            </div>
+
+            <div class="panel panel-warning">
+                <div class="panel-heading"><strong>@Html.ActionLink("Закажи за прв практичен дел", "ZakaziTermin", "PrvPrakticenDel")</strong> </div>
+                <p style="color:black">
+                    Практичната обука во Авто Школа Мобилити, која се изведува на најсовремени, климатизирани и комплетно опремени возила: Volkswagen Polo, Toyota Yaris, Mazda 2, Suzuki Alto, Hyundai i10,
+                    ќе Ви помогне за најдобра проценка во сите идни сообраќајни ситуации и ќе Ви овозможи самоуверено,
+                    безбедно и сигурно урбано возење.
+                </p>
+                <div class="panel-body">
+                    <p>
+                </div>
+            </div>
+
+
+            <div class="panel panel-primary">
+                <div class="panel-heading"><strong>@Html.ActionLink("Закажи за втор практичен дел", "ZakaziTermin", "VtorPrakticenDel")</strong></div>
+                <div class="panel-body">
+                    <p style="color: black">Изборот  за место каде би сакале да се обучувате,термини,возило и инструктор ќе придонесат за ваша комплетна поддршка.</p>
+                </div>
+            </div>
+         
+        </div>
+    <table border="0" cellspacing="10" align="right">
+        <tr>
+            <td>
+                <iframe align="center" marginwidth="10"
+                        width="400"
+                        height="250"
+                        frameborder="0" style="border:0"
+                        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC8uqDJxs3IXfdPIY60TaO_OcaRpGchjGg
+    &q=АМСМ+Авто+школа,Skopje+Macedonia"></iframe>
+            </td>
+        </tr>
+    </table>
+
+
+    <iframe align="left" marginwidth="10"
+            width="400"
+            height="250"
+            frameborder="0" style="border:0"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC8uqDJxs3IXfdPIY60TaO_OcaRpGchjGg
+    &q=ASUC+Boro+Petrushevski,Skopje+Macedonia"></iframe>
+
+   
+    </script>
+   </div>
+</body>
+</html>

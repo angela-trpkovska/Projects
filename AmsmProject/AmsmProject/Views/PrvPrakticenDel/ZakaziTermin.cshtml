@@ -1,0 +1,122 @@
+﻿@model AmsmProject.Models.PracticalPart1
+
+@{
+    ViewBag.Title = "ZakaziTermin";
+}
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+         <br/>
+        <h4><center><strong>Страна за закажување на термин за полагање на првиот практичен дел за добивање на возачка дозвола</strong></center></h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+                                  <div>
+                                    @Html.ActionLink("Назад", "HomePage", "AmsmHome")
+                                </div>
+        <div class="row">
+                        <div class="col-lg-6">
+
+                            <form class="form-horizontal">
+                                <p style="color:red"><b>@ViewBag.Message</b></p>
+
+                                <div class="form-group">
+                                    <label for="inputName" class="control-label col-xs-4">Изберете датум :  </label>
+                                    <div class="col-md-10">
+                                        @Html.EditorFor(model => model.date)
+                                        @Html.ValidationMessageFor(model => model.date)
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-10">
+
+                                        <br>
+                                        <p style="display:none"> hidden</p> <br />
+                                        <p style="display:none"> hidden</p> <br />
+                                        Место за полагање е полигонот во населбата Автокоманда.<br />
+                                        Кандидатот потребно е  да биде присутен во 08:00 часот.<br />
+                                        Потребно е да се носи лична карта за идентификација.<br />
+                                        <p style="display:none"> hidden</p> <br />
+                                        <p style="display:none"> hidden</p> <br />
+                                        <p style="display:none"> hidden</p> <br />
+
+
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-5">
+                                        <input type="submit" style="background-color: yellow; font-family: arial; color: black;font-weight: bold; " value="Уплати" class="btn btn-default" />
+                                    </div>
+                                </div>
+                            
+                                
+
+                            </form>
+            </div>
+
+            <div class="col-lg-5">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="panel panel-info">
+                            <div class="panel-heading" style="background-color :#303030"><strong>Обуки</strong></div>
+                            <p>
+                                Авто Школа Мобилити Ви стои на располагање за обуки во следните категории:
+
+                                <br>- Обука за А категорија
+                                <br> - Обука за А1 поткатегорија
+                                <br>- Обука за Б категорија
+                                <br>- Обуки за Б+Е категорија
+                                <br>- Обука за Ц категорија
+                                <br>- Обука за Ц+Е категорија
+                                <br>- Обука за Д категорија....
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <div class="panel-body">
+                        <div class="panel panel-info">
+                            <div class="panel-heading" style="background-color :#303030"> Возен парк </div>
+                            <p>
+                                Во Авто Школа Мобилити на располагање Ви се најсовремени, климатизирани и комплетно опремени возила:
+
+                                - Hyundai i10
+                                - Volkswagen Polo
+                                - Toyota Yaris
+                                - Suzuki Alto
+                                - Mazda 2
+                            </p>
+
+
+                        </div>
+                    </div>
+
+                    <div class="panel-body">
+                        <div class="panel panel-info">
+                            <div class="panel-heading" style="background-color :#303030">Бесплатно Light членство</div>
+                            <p>
+                                Сите кандидати во Авто Школа Мобилити на возраст од 18-24 години добиваат бесплатно АМСМ Light членство за првата година со услуги во вредност од 17.000 ден.
+                                Подетални информации,на главната страна на Амсм
+                            </p>
+
+
+                        </div>
+                    </div>
+                    
+                    
+                   
+                </div>
+            </div>
+
+        </div>
+        }
+
+    
+    
+

@@ -1,0 +1,97 @@
+﻿@model AmsmProject.Models.PracticalPart2
+
+@{
+    ViewBag.Title = "ZakaziTermin";
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+      @Html.ValidationSummary(true)
+    <p style="color:gray">hidden</p>
+        <h4><center><strong>Страна за закажување на термин за полагање на вториот практичен дел за добивање на возачка дозвола</strong></center></h4>
+         <hr />
+        <div class="col-lg-6">
+
+            <form class="form-horizontal">
+                <p style="color:red"><b>@ViewBag.Message</b></p>
+                <div class="form-group">
+                    <p><b>Изберете датум : </b></p>
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.date)
+                        @Html.ValidationMessageFor(model => model.date)
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <p><b>Изберете локација за полагање : </b> </p>
+                    <div class="col-md-10">
+
+                        @Html.DropDownListFor(x => x.place, new[] {
+          new SelectListItem() {Text = "Паркинг-РесторанБисера",Value = "Паркинг-РесторанБисера"},
+         
+          new SelectListItem() {Text = "Паркинг-Зоолошка градина",Value = "Паркинг-Зоолошка градина"}})
+
+                        @Html.ValidationMessageFor(model => model.place)
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <p><b>Изберете час: </b></p>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(x => x.hour, new[] {
+          new SelectListItem() {Text = "10:00",Value ="10"},
+          new SelectListItem() {Text = "13:00",Value ="13"},
+           })
+                        @Html.ValidationMessageFor(model => model.hour)
+                    </div>
+                </div>
+
+                <div class="form-group">
+
+                    <input type="submit" style="background-color: yellow; font-family: arial; color: black;font-weight: bold; " value="Уплати" class="btn btn-default" />
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-10">
+                        @Html.ActionLink("Назад", "HomePage", "AmsmHome")
+                        </div>
+                    </div>
+
+</form>
+       </div>
+    
+          
+
+        
+    
+   
+
+        <div class="col-lg-6">
+            <div class="container">
+                <p style="color:grey">asdassda</p>
+                <p style="color:grey">asdassda</p>
+                <div class="jumbotron" style="background-color: #darkkhaki">
+                    <center>
+                        <h3>Успешна соработка со АМСМ</h3>
+
+                        <span class="glyphicon glyphicon-warning-sign"></span>
+                        <span class="glyphicon glyphicon-road"></span>
+                        <span class="glyphicon glyphicon-flag"></span>
+                        <p><small>Имате уште само еден дел.Честитки за вашиот досегашен успех.<small></p>
+                        <center>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+}
+    
+        
+
+
+}

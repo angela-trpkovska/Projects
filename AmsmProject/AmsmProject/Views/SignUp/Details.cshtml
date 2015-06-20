@@ -1,0 +1,66 @@
+﻿@model AmsmProject.Models.Candidate
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Детали за кандидат</h2>
+
+<div>
+  
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <p>Име</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.firstName)
+        </dd>
+
+        <dt>
+            <p>Татково име</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.parentName)
+        </dd>
+
+        <dt>
+            <p>Презиме</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lastName)
+        </dd>
+
+        <dt>
+            <p>Категорија</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.category)
+        </dd>
+
+        <dt>
+            <p>Автошкола</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.drivingSchool)
+        </dd>
+
+        <dt>
+            <p>Инструктор</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.instructor)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EMBG }) |
+    @Html.ActionLink("Назад", "List")
+</p>

@@ -1,0 +1,51 @@
+﻿@model AmsmProject.Models.AmsmInfoPP2
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Детали за датум за полагање на втор практичен дел</h3>
+
+<div>
+
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <p>Датум</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date)
+        </dd>
+
+        <dt>
+            <p>Час</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hour)
+        </dd>
+
+        <dt>
+            <p>Место</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.place)
+        </dd>
+
+        <dt>
+            <p>Кандидати</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.candidatesPP2)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Назад", "Index")
+</p>

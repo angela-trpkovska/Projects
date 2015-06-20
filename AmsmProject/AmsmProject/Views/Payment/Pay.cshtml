@@ -1,0 +1,97 @@
+﻿@model AmsmProject.Models.CreditCardInfo
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Pay</title>
+</head>
+<body>
+
+    
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+         <div class="row">
+             <div class="col-lg-2"></div>
+            
+              <div class="col-lg-7">
+                
+            <h4><center>Внесете ги информациите од вашата кредитна картичка</center></h4>
+            <hr />
+            @Html.ValidationSummary(true)
+
+
+                 <div class="form-horizontal">
+                     
+                     <div class="form-group">
+                         <label for="inputName" class="control-label col-xs-4">Име</label>
+                         <div class="col-md-8">
+                           @Html.TextBoxFor(x => x.firstName, new { @class = "form-control", placeholder = "Име" })
+                           @Html.ValidationMessageFor(model => model.firstName)
+                         </div>
+                     </div>
+
+
+                     <div class="form-group">
+                         <label for="inputName" class="control-label col-xs-4">Презиме</label>
+                         <div class="col-md-8">
+                             @Html.TextBoxFor(x => x.lastName, new { @class = "form-control", placeholder = "Презиме" })
+                             @Html.ValidationMessageFor(model => model.lastName)
+                         </div>
+                     </div>
+                     
+
+                     <div class="form-group">
+                         <label for="inputName" class="control-label col-xs-4">Број на картичка</label>
+                         <div class="col-md-8">
+                             @Html.TextBoxFor(x => x.cardNumber, new { @class = "form-control", placeholder = "Број на картичка" })
+                             @Html.ValidationMessageFor(model => model.cardNumber)
+                         </div>
+                     </div>
+
+                    
+                     <div class="form-group">
+                         <label for="inputName" class="control-label col-xs-4">Рок на важност</label>
+                         <div class="col-md-8">
+                             @Html.TextBoxFor(x => x.expiresDate, new { @class = "form-control", placeholder = "Рок на важност" })
+                             @Html.ValidationMessageFor(model => model.expiresDate)
+                         </div>
+                     </div>
+
+
+                     <div class="form-group">
+                         <label for="inputName" class="control-label col-xs-4">CVC2/CVV2 број </label>
+                         <div class="col-md-8">
+                             @Html.TextBoxFor(x => x.code, new { @class = "form-control", placeholder = "CVC2/CVV2 број " })
+                             @Html.ValidationMessageFor(model => model.code)
+                         </div>
+                     </div>
+                     
+
+                    
+                     <p class="col-md-8">Вкупно:1650 денари</p>
+
+                     <div class="form-group">
+                         <div class="col-md-3">
+                             <input type="submit" style="background-color: yellow; font-family: arial; color: black;font-weight: bold; " value="Поднеси" class="btn btn-default" />
+                         </div>
+                     </div>
+
+                 </div>
+                  </div>
+<div class="col-lg-3"></div>
+                
+       
+             </div>
+        <p>@ViewBag.Message</p>
+    }
+</body>
+</html>

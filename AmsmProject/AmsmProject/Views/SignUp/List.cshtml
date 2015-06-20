@@ -1,0 +1,88 @@
+﻿
+@model PagedList.IPagedList<AmsmProject.Models.Candidate>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>Информации за кандидатите - АМСМ Скопје </h3>
+
+<p>
+    @Html.ActionLink("Внеси кандидат", "Create")
+</p>
+<p>
+    @Html.ActionLink("Назад", "AdminPage", "AmsmHome")
+</p>
+@using (Html.BeginForm())
+{
+    <p>
+        Пребарај по ЕМБГ: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+    <br />
+     <br />
+     <br />
+}
+<table class="table">
+    <tr>
+        <th>
+           <p>Матичен број</p>
+        </th>
+        <th>
+            <p>Име</p>
+        </th>
+        <th>
+            <p>Татково име</p>
+        </th>
+        <th>
+            <p>Презиме</p>
+        </th>
+        <th>
+            <p>Категорија</p>
+        </th>
+        <th>
+            <p>Автошкола</p>
+        </th>
+        <th>
+            <p>Инструктор</p>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.EMBG)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.firstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.parentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.lastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.category)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.drivingSchool)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.instructor)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.EMBG }) |
+            @Html.ActionLink("Details", "Details", new { id=item.EMBG }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.EMBG })
+        </td>
+    </tr>
+}
+
+</table>
+<br />
+Страна @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) од @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("List", new { page }))

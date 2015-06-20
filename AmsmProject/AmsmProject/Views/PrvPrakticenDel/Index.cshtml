@@ -1,0 +1,81 @@
+﻿@model PagedList.IPagedList<AmsmProject.Models.PracticalPart1>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>Пријавени кандидати за прв практичен дел</h3>
+<br />
+<div>
+    @if (TempData["RedirectReason"] == "Unauthorized")
+    {
+        <b>You don't have permission to access that area</b>
+    }
+
+
+</div>
+<p>
+    @Html.ActionLink("Внеси кандидат", "Create")
+</p>
+<p>
+    @Html.ActionLink("Назад", "AdminPage", "AmsmHome")
+</p>
+
+<br />
+@using (Html.BeginForm())
+{
+    <p>
+        Пребарај по датум: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
+<br />
+<br />
+<br />
+<table class="table">
+    <tr>
+        <th>
+            <p><b>Матичен број</b></p>
+        </th>
+        <th>
+           <p><b>Датум</b></p>
+        </th>
+        <th>
+            <p><b>Положено</b></p>
+        </th>
+        <th>
+            <p><b>Платено</b></p>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.EMBG)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.passed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.payed)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+        </td>
+    </tr>
+}
+
+</table>
+<br />
+Страна @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) од @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))

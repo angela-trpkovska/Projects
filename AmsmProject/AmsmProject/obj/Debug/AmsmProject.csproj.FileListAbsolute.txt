@@ -1,0 +1,474 @@
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\AmsmProject.dll.config
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\AmsmProject.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\AmsmProject.pdb
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Antlr3.Runtime.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\EntityFramework.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Newtonsoft.Json.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Owin.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.Helpers.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.Mvc.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.Optimization.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.Razor.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.WebPages.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\WebGrease.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.Helpers.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.Mvc.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.Optimization.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.Razor.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.WebPages.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Newtonsoft.Json.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Antlr3.Runtime.pdb
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\EntityFramework.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\obj\Debug\AmsmProject.dll
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\obj\Debug\AmsmProject.pdb
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.InitialCreate.resources
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csproj.GenerateResource.Cache
+c:\users\angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Update1.resources
+C:\Users\Angela\documents\visual studio 2013\Projects\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\AmsmProject.dll.config
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\AmsmProject.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\AmsmProject.pdb
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Antlr3.Runtime.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\EntityFramework.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Newtonsoft.Json.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Owin.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.Helpers.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.Mvc.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.Optimization.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.Razor.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.WebPages.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\WebGrease.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\EntityFramework.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.Helpers.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.Mvc.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.Optimization.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.Razor.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.WebPages.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Newtonsoft.Json.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Antlr3.Runtime.pdb
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\obj\Debug\AmsmProject.dll
+C:\Users\Angela\Desktop\Seminarska\AmsmProject\AmsmProject\obj\Debug\AmsmProject.pdb
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\AmsmProject.dll.config
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\AmsmProject.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\AmsmProject.pdb
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Antlr3.Runtime.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\EntityFramework.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Newtonsoft.Json.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Owin.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.Helpers.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.Mvc.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.Optimization.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.Razor.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.WebPages.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\WebGrease.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\EntityFramework.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.Helpers.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.Mvc.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.Optimization.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.Razor.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.WebPages.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Newtonsoft.Json.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Antlr3.Runtime.pdb
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\obj\Debug\AmsmProject.dll
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\obj\Debug\AmsmProject.pdb
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Init.resources
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csproj.GenerateResource.Cache
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Mig1.resources
+C:\Users\Angela\Desktop\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Mig2.resources
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\AmsmProject.dll.config
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\AmsmProject.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\AmsmProject.pdb
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Antlr3.Runtime.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\EntityFramework.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Web.Infrastructure.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Newtonsoft.Json.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Owin.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.Helpers.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.Mvc.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.Optimization.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.Razor.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.WebPages.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\WebGrease.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\EntityFramework.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.Helpers.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.Mvc.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.Optimization.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.Razor.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.WebPages.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Newtonsoft.Json.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Antlr3.Runtime.pdb
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csprojResolveAssemblyReference.cache
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Init.resources
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Mig1.resources
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Mig2.resources
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csproj.GenerateResource.Cache
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\obj\Debug\AmsmProject.dll
+D:\FINKI\Петти семестар\Mrezno programiranje\AmsmProject\AmsmProject\obj\Debug\AmsmProject.pdb
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\obj\Debug\AmsmProject.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\obj\Debug\AmsmProject.pdb
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\AmsmProject.dll.config
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\AmsmProject.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\AmsmProject.pdb
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Antlr3.Runtime.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\EntityFramework.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Newtonsoft.Json.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Owin.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.Helpers.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.Mvc.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.Optimization.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.Razor.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.WebPages.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\WebGrease.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\EntityFramework.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.Helpers.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.Mvc.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.Optimization.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.Razor.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.WebPages.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Newtonsoft.Json.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Antlr3.Runtime.pdb
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Init.resources
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csproj.GenerateResource.Cache
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\PagedList.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\PagedList.Mvc.dll
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\PagedList.xml
+C:\Users\Angela\Desktop\Od Ana\AmsmProject\AmsmProject\bin\PagedList.Mvc.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\AmsmProject.dll.config
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\AmsmProject.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\AmsmProject.pdb
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Antlr3.Runtime.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\EntityFramework.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Newtonsoft.Json.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Owin.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\PagedList.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\PagedList.Mvc.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.Helpers.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.Mvc.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.Optimization.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.Razor.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.WebPages.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\WebGrease.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\EntityFramework.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\PagedList.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\PagedList.Mvc.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.Helpers.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.Mvc.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.Optimization.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.Razor.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.WebPages.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Newtonsoft.Json.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Antlr3.Runtime.pdb
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Init.resources
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csproj.GenerateResource.Cache
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\obj\Debug\AmsmProject.dll
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\obj\Debug\AmsmProject.pdb
+C:\Users\Angela\Desktop\Seminarska IT\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\AmsmProject.dll.config
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\AmsmProject.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\AmsmProject.pdb
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Antlr3.Runtime.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\EntityFramework.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Newtonsoft.Json.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Owin.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\PagedList.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\PagedList.Mvc.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Helpers.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Mvc.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Optimization.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Razor.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\WebGrease.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\EntityFramework.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\PagedList.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\PagedList.Mvc.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Helpers.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Mvc.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Optimization.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Razor.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Newtonsoft.Json.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Antlr3.Runtime.pdb
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Init.resources
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csproj.GenerateResource.Cache
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.dll
+C:\Users\Angela\Desktop\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.pdb
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\AmsmProject.dll.config
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\AmsmProject.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\AmsmProject.pdb
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Antlr3.Runtime.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\EntityFramework.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Newtonsoft.Json.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Owin.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\PagedList.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\PagedList.Mvc.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Helpers.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Mvc.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Optimization.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Razor.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\WebGrease.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\EntityFramework.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\EntityFramework.SqlServer.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\PagedList.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\PagedList.Mvc.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Helpers.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Mvc.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Optimization.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.Razor.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.Deployment.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\System.Web.WebPages.Razor.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Newtonsoft.Json.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Antlr3.Runtime.pdb
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csprojResolveAssemblyReference.cache
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.Migrations.Init.resources
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.csproj.GenerateResource.Cache
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.dll
+D:\Angela\Fakultet\V Semestar\V semestar\V semestar\Mrezno Programiranje\Seminarska mrezno\Seminarska Mrezno-AMSM\AmsmProject\AmsmProject\obj\Debug\AmsmProject.pdb

@@ -1,0 +1,78 @@
+c:\users\angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.exe.config
+c:\users\angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.Form1.resources
+c:\users\angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.Properties.Resources.resources
+c:\users\angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.csproj.GenerateResource.Cache
+c:\users\angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.exe
+c:\users\angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.pdb
+c:\users\angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.exe
+c:\users\angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.pdb
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.dll
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Imaging.dll
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Math.dll
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Statistics.dll
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.dll
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.Imaging.dll
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.Math.dll
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.xml
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Imaging.xml
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Math.xml
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Statistics.xml
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.xml
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.Imaging.xml
+C:\Users\Angela\documents\visual studio 2013\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.Math.xml
+C:\Users\Angela\Documents\Visual Studio 2013\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.exe.config
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.exe
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.pdb
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.exe
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.pdb
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.dll
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.Imaging.dll
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.Math.dll
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.Statistics.dll
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\AForge.dll
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\AForge.Imaging.dll
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\AForge.Math.dll
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.xml
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.Imaging.xml
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.Math.xml
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\Accord.Statistics.xml
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\AForge.xml
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\AForge.Imaging.xml
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\bin\Debug\AForge.Math.xml
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.Form1.resources
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.Properties.Resources.resources
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.csproj.GenerateResource.Cache
+C:\Users\Angela\Desktop\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Documents\ANGELA\Fakultet\VI Semestar\Obrab na sliki\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.exe.config
+C:\Users\Angela\Documents\ANGELA\Fakultet\VI Semestar\Obrab na sliki\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.exe
+C:\Users\Angela\Documents\ANGELA\Fakultet\VI Semestar\Obrab na sliki\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.pdb
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.exe.config
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.exe
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.pdb
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.exe
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\ONSseminarska.pdb
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.dll
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Imaging.dll
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Math.dll
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Statistics.dll
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.dll
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.Imaging.dll
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.Math.dll
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.xml
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Imaging.xml
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Math.xml
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\Accord.Statistics.xml
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.xml
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.Imaging.xml
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\bin\Debug\AForge.Math.xml
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.csprojResolveAssemblyReference.cache
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.Form1.resources
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.Properties.Resources.resources
+C:\Users\Angela-PC\Documents\GitHub\Projects\ONSseminarska\ONSseminarska\obj\Debug\ONSseminarska.csproj.GenerateResource.Cache
